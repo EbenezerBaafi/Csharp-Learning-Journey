@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "exception": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
